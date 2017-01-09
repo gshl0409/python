@@ -1,5 +1,4 @@
-print('dsafd')
-next
+print('dsafd');
 if 1==1:
 	pass
 else:
